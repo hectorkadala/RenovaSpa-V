@@ -1,0 +1,96 @@
+#renova{
+	float: left;
+}
+h1{
+	text-align: right;
+}
+
+nav{
+	text-align: center;
+}
+
+input{
+	border-radius: 15px;
+}
+
+::-webkit-input-placeholder {
+  color: black;
+}
+
+}
+nav{
+	text-align: center;
+}
+
+#formulario{
+	margin: 70px;
+}
+
+#Relleno{
+	margin: 25px;
+	border-color: black;
+}
+
+.textNom{
+	width: 800px;
+	height: 25px;
+}
+
+.textEda{
+	width: 300px;
+	height: 25px;
+}
+.textPai{
+	width: 552px;
+	height: 25px;
+}
+
+.textEma{
+	width: 552px;
+	height: 25px;
+}
+
+.textHot{
+	width: 802px;
+	height:25px;
+}
+
+.textHab{
+	width: 302px;
+	height: 25px;
+}
+
+.textAge{
+	width: 1105px;
+	height: 25px;
+}
+
+.textTra{
+	width: 552px;
+	height: 25px;
+}
+
+.textTer{
+	width: 552px;
+	height: 25px;
+}
+
+td{
+	text-align: center;
+}
+
+#imagenes img{
+	margin-left: 81px; 
+	margin-right:76px;
+}
+
+#check input{
+	margin-right: 99px;
+	margin-left: 102px; 
+}
+
+footer{
+   position:bottom;
+   bottom:0;
+   font-size: 12px;
+}
